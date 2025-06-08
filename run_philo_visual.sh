@@ -7,7 +7,7 @@ YELLOW='\033[0;33m'
 BLUE='\033[0;34m'
 NC='\033[0m' # No Color
 
-PROJECT_DIR="/Users/marta/Documents/PROJECTS/philo"
+PROJECT_DIR="../philo"
 VISUALIZER_SCRIPT="/Users/marta/Documents/PROJECTS/philosopher_visualizer_simple.py"
 
 echo -e "${BLUE}===== PHILOSOPHERS VISUALIZATION =====${NC}"
